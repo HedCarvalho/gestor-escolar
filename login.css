@@ -1,0 +1,53 @@
+body{
+    background-color: gray;
+}
+.mb-3{
+     /*Largura*/
+     width: 80%;
+     /*Altura*/
+     height: 0%;
+     /*Espaçamento entre os objetos (IMAGENS)*/
+     padding: 5%;
+     /*Margem*/
+     margin: 0%;
+     /*centralizar imagens*/
+     margin-left: auto; /*Margem da esquerda*/
+     margin-right: auto; /*Margem da direita*/
+     display: block;/*Transforma as imagens em */
+}
+
+.form-text{
+    color:black;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+
+form{
+    /*Largura*/
+    width: 80%;
+    /*Altura*/
+    height: 0%;
+    /*Espaçamento entre os objetos (IMAGENS)*/
+    padding: 5%;
+    /*Margem*/
+    margin: 0%;
+    /*centralizar imagens*/
+    margin-left: auto; /*Margem da esquerda*/
+    margin-right: auto; /*Margem da direita*/
+    display: block;/*Transforma as imagens em */
+}
+.btn{
+    color: black;
+  /*Largura*/
+  width: 20%;
+  /*Espaçamento entre os objetos (IMAGENS)*/
+  padding: 1%;
+  /*Margem*/
+  margin: 1%;
+  /*centralizar imagens*/
+  margin-left: auto; /*Margem da esquerda*/
+  margin-right: auto; /*Margem da direita*/
+  display: block;/*Transforma as imagens em */
+}
